@@ -1,0 +1,1 @@
+Realistic aiming system. When player start aiming then it start shaking. Dont work for sinper rifles (you can set guns you dont want to start shaking after aiming in config)
